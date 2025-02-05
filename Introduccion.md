@@ -1,5 +1,5 @@
 # <h1 align="center"> INTRODUCCIÓN </h1> 
-# Nginx: Servidor Web de Alto Rendimiento
+## Nginx: Servidor Web de Alto Rendimiento
 
 Nginx es un servidor web de alto rendimiento que también puede funcionar como proxy inverso, balanceador de carga y servidor de correo. Fue desarrollado por Igor Sysoev y lanzado en 2004 con el objetivo de resolver el desafío de gestionar un gran número de conexiones simultáneas utilizando pocos recursos.
 
