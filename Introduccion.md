@@ -3,7 +3,7 @@
 
 Nginx es un servidor web de alto rendimiento que también puede funcionar como proxy inverso, balanceador de carga y servidor de correo. Fue desarrollado por Igor Sysoev y lanzado en 2004 con el objetivo de resolver el desafío de gestionar un gran número de conexiones simultáneas utilizando pocos recursos.
 
-## Principales Características de Nginx
+## Características de Nginx
 
 - **Alto rendimiento**: Nginx es conocido por su capacidad para manejar miles de conexiones concurrentes con un bajo consumo de memoria, lo que lo convierte en una excelente opción para sitios de alto tráfico.
 
@@ -17,7 +17,7 @@ Nginx es un servidor web de alto rendimiento que también puede funcionar como p
 
 ---
 
-## La Relevancia de un Servidor Web en el Desarrollo Web
+## Relevancia de Servidor Web en el Desarrollo Web
 
 El servidor web es esencial para cualquier aplicación o sitio web, ya que gestiona las solicitudes de los usuarios y las respuestas del contenido. Elegir un servidor adecuado es clave para asegurar que un sitio cargue rápidamente, sea accesible en todo momento y pueda manejar grandes volúmenes de tráfico sin interrupciones.
 
@@ -43,7 +43,7 @@ Herramientas como Nagios, Prometheus y Grafana proporcionan información en tiem
 
 ---
 
-## Seguridad en los Servidores Web
+## Seguridad en Servidores Web
 
 La seguridad es un aspecto crítico en la gestión de servidores web. Las vulnerabilidades pueden comprometer tanto los datos del usuario como la integridad del sitio web. Nginx incluye diversas características de seguridad:
 
@@ -57,7 +57,7 @@ La seguridad es un aspecto crítico en la gestión de servidores web. Las vulner
 
 ---
 
-## Casos de Uso Comunes de Nginx
+## Usos Comunes de Nginx
 
 - **Contenido estático**: Ideal para entregar contenido estático con alta eficiencia y rendimiento.
 
@@ -69,7 +69,7 @@ La seguridad es un aspecto crítico en la gestión de servidores web. Las vulner
 
 ---
 
-## ¿Por Qué Elegir Nginx?
+## ¿Por Qué Nginx?
 
 Si buscas alto rendimiento, bajo consumo de recursos y la capacidad de manejar muchas conexiones simultáneas, Nginx es una excelente opción. Es ideal para sitios web de alto tráfico, aplicaciones en tiempo real y cualquier infraestructura que requiera escalabilidad.
 
