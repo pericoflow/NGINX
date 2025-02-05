@@ -10,5 +10,5 @@ Este repositorio contiene documentación técnica sobre la configuración de "Ng
 6. [Referencias.](Referencias.md) 
 
 <div align="center">
-  <img src="" width="600" height="400"/>
+  <img src="Img/nginx-portada.jpg" width="600" height="400"/>
 </div>
