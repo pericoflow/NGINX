@@ -35,3 +35,10 @@ Cuando se trata de servidores web, **Nginx** y **Apache** son dos de las opcione
 Si necesitamos alto rendimiento y estabilidad con muchas conexiones, **Nginx** es la mejor opción. Si buscamos flexibilidad y compatibilidad con configuraciones personalizadas, **Apache** sigue siendo una alternativa sólida. La elección dependerá del tipo de proyecto que vayamos a desarrollar.
 
 ---
+
+## Selección de página 
+[Volver](./Introduccion.md)  
+[Ir a Esquema de Red](./Esquema-red.md)  
+[Ir a Instalación](./Instalacion.md)  
+[Ir a Casos Prácticos](./Casos-practicos.md) 
+[Ir a Referencias](./Referencias.md)  
