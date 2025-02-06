@@ -36,5 +36,5 @@ Nginx es una herramienta clave en el mundo del hosting y las aplicaciones web. E
 [Ir a Comparativa Apache](./Comparativa.md)  
 [Ir a Esquema de Red](./Esquema-red.md)  
 [Ir a Instalación](./Instalacion.md)  
-[Ir a Casos Prácticos](./Casos-practicos.md) 
+[Ir a Casos Prácticos](./Casos-practicos.md)  
 [Ir a Referencias](./Referencias.md)  
