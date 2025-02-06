@@ -1,4 +1,4 @@
-# Nginx vs Apache: Diferencias y cuál elegir
+### <h1 align="center"> Nginx vs Apache: Diferencias y cuál elegir </h1>
 
 ## Introducción
 
