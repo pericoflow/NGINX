@@ -30,3 +30,11 @@ Lo creó Igor Sysoev en 2004 porque los servidores web de la época tenían prob
 Nginx es una herramienta clave en el mundo del hosting y las aplicaciones web. Es rápido, eficiente y se adapta a muchas necesidades, desde pequeños proyectos hasta infraestructuras gigantes como las de las grandes empresas de tecnología.
 
 ---
+
+## Selección de página 
+[Volver](./README.md) 
+[Ir a Comparativa Apache](./Comparativa.md)  
+[Ir a Esquema de Red](./Esquema-red.md)  
+[Ir a Instalación](./Instalacion.md)  
+[Ir a Casos Prácticos](./Casos-practicos.md) 
+[Ir a Referencias](./Referencias.md)  
