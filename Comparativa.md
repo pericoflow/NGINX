@@ -16,7 +16,7 @@ Cuando se trata de servidores web, **Nginx** y **Apache** son dos de las opcione
 | **Configuración** | Más sencilla pero menos flexible | Permite configuraciones avanzadas con `.htaccess` |
 | **Uso recomendado** | Microservicios, proxy inverso, alto tráfico | Aplicaciones monolíticas, sitios con muchas personalizaciones |
 
-## ¿Cuándo usar cada uno?
+## ¿Cuándo usamos cada uno?
 
 - **Usa Nginx si...**
   - Necesitamos un servidor web rápido y eficiente para manejar muchas conexiones.
