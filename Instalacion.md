@@ -7,5 +7,5 @@ Para la instalación de Nginx lo primero que haremoos será un `apt update` para
 
 ## Selección de página 
 [Volver](./Esquema-red.md)  
-[Ir a Casos Prácticos](./Casos-practicos.md) 
+[Ir a Casos Prácticos](./Casos-practicos.md)  
 [Ir a Referencias](./Referencias.md)  
