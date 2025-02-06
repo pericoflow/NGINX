@@ -105,3 +105,7 @@ Configura el sitio virtual *www.web1.org* para que el acceso sea seguro.
 - Modificaremos el archivo `sites-availables`. 
 
 ![Comprobación de red](./Img/captura28.png) 
+
+## Selección de página 
+[Volver](./Instalacion.md)  
+[Ir a Referencias](./Referencias.md)  
