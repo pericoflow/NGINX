@@ -15,3 +15,9 @@ Para la configuración de las redes tendremos que configurar su archivo en `/etc
 ![Configuración de red](./Img/captura2.png) 
 
 ![Comprobación de red](./Img/captura3.png) 
+
+## Selección de página 
+[Volver](./Comparativa.md)  
+[Ir a Instalación](./Instalacion.md)  
+[Ir a Casos Prácticos](./Casos-practicos.md) 
+[Ir a Referencias](./Referencias.md)  
