@@ -4,9 +4,7 @@
   <img src="Img/nginxvsapache.png" width="600" height="400"/>
 </div>
 
-Cuando se trata de servidores web, **Nginx** y **Apache** son dos de las opciones más utilizadas. Cada uno tiene sus ventajas y desventajas dependiendo del tipo de uso que se le quiera dar. En este documento, vamos a comparar ambos para elegir el que mejor se adapte a lo que necesitemos.
-
-Si estás buscando un servidor web, probablemente te hayas encontrado con **Nginx** y **Apache**, los dos más populares en el mundo del hosting. Ambos tienen características que los hacen adecuados para distintos tipos de proyectos. En esta comparativa, veremos sus diferencias clave y en qué situaciones es mejor usar cada uno.
+Cuando se trata de servidores web, **Nginx** y **Apache** son dos de las opciones más utilizadas en el mundo del hosting. Ambos tienen características que los hacen adecuados para distintos tipos de proyectos. En esta comparativa, veremos sus diferencias clave y en qué situaciones es mejor usar cada uno.
 
 ## Comparación entre Nginx y Apache
 
