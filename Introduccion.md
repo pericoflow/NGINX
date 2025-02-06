@@ -1,4 +1,4 @@
-# Introducción a Nginx
+### <h1 align="center"> Introducción a Nginx </h1>
 
 ## ¿Qué es Nginx?
 
