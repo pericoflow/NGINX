@@ -10,7 +10,7 @@ Si estás buscando un servidor web, probablemente te hayas encontrado con **Ngin
 
 ## Comparación entre Nginx y Apache
 
-| Característica        | Nginx 🚀 | Apache 🏗️ |
+| Característica        | Nginx  | Apache  |
 |----------------------|---------|-----------|
 | **Modelo de trabajo** | Basado en eventos (asíncrono), lo que permite manejar muchas conexiones simultáneas con eficiencia. | Basado en procesos/hilos (sincrónico), lo que puede consumir más recursos con muchas conexiones. |
 | **Velocidad y rendimiento** | Más rápido en la entrega de contenido estático y en entornos de alto tráfico. | Puede ser más lento con muchas conexiones concurrentes, pero funciona bien en configuraciones tradicionales. |
@@ -23,27 +23,14 @@ Si estás buscando un servidor web, probablemente te hayas encontrado con **Ngin
 ## ¿Cuándo usar cada uno?
 
 ### ¿Cuándo usar Nginx?
-✅ Si necesitas un servidor web eficiente para manejar muchas conexiones sin consumir muchos recursos.  
-✅ Si tu proyecto se basa en contenido estático o necesitas un **proxy inverso** para balancear la carga.  
-✅ Si trabajas con arquitecturas modernas basadas en **microservicios**.
+✅ Si necesitamos un servidor web eficiente para manejar muchas conexiones sin consumir muchos recursos.  
+✅ Si nuestro proyecto se basa en contenido estático o necesitas un **proxy inverso** para balancear la carga.  
+✅ Si trabajamos con arquitecturas modernas basadas en **microservicios**.
 
 ### ¿Cuándo usar Apache?
-✅ Si necesitas personalizar configuraciones por directorio con `.htaccess`.  
-✅ Si tu proyecto utiliza aplicaciones que ya están diseñadas para Apache (como WordPress, Joomla, Drupal).  
-✅ Si prefieres una solución más flexible con una gran cantidad de módulos disponibles.
-
-
-## ¿Cuándo usamos cada uno?
-
-- **Usa Nginx si...**
-  - Necesitamos un servidor web rápido y eficiente para manejar muchas conexiones.
-  - Vamos a servir mucho contenido estático como imágenes, CSS o JavaScript.
-  - Queremos configurarlo como **proxy inverso** o balanceador de carga.
-
-- **Usa Apache si...**
-  - Necesitamos hacer configuraciones específicas por directorio con `.htaccess`.
-  - Trabajamos con aplicaciones que ya están optimizadas para Apache.
-  - Queremos con un servidor web con muchos módulos y opciones avanzadas.
+✅ Si necesitamos personalizar configuraciones por directorio con `.htaccess`.  
+✅ Si nuestro proyecto utiliza aplicaciones que ya están diseñadas para Apache (como WordPress, Joomla, Drupal).  
+✅ Si preferimos una solución más flexible con una gran cantidad de módulos disponibles.
 
 ## Conclusión
 
