@@ -32,7 +32,7 @@ Nginx es una herramienta clave en el mundo del hosting y las aplicaciones web. E
 ---
 
 ## Selección de página 
-[Volver](./README.md) 
+[Volver](./README.md)  
 [Ir a Comparativa Apache](./Comparativa.md)  
 [Ir a Esquema de Red](./Esquema-red.md)  
 [Ir a Instalación](./Instalacion.md)  
